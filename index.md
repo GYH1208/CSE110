@@ -8,6 +8,8 @@
 - C++
 
 **I found java interesting because it is an object orientated language** > Java is the best language in the world **and that is why I prefer coding with java**
+> Java is good
 
 - [x] **Easy to learn**
 - [x] **Rich APIs**
+- [x] 
