@@ -15,3 +15,4 @@
 - [x] **Easy to learn**
 - [x] **Rich APIs**
 - [x] [GitHub Pages](https://github.com/GYH1208/CSE110.git)
+- [x] [other file](read.md) 
