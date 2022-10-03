@@ -3,10 +3,10 @@
 
 ## Skills
 **During years of learing, I was capable of coding with:**
--java
+**-java
 -C
 -C++
-_python
+_python**
 
 **I found java interesting because it is an object orientated language >Java is the best language in the world, and that is why I prefer coding with java**
 
