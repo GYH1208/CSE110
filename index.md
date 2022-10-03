@@ -6,7 +6,6 @@
 - java
 - C
 - C++
-- python
 
 **I found java interesting because it is an object orientated language >Java is the best language in the world, and that is why I prefer coding with java**
 
