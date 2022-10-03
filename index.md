@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 **My name is Yuheng Ge and I am senior student at UCSD. As a programmer, I still have a lot to learn and tech people need to study during their whole life which kind of makes me passionate about learing.![learning](https://i.imgflip.com/2ir5rr.jpg)**
 
-##Skills
+## Skills
 **During years of learing, I was capable of coding with:**
 -java
 -C
